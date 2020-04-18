@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="connect_with_us">CONNECT WITH US</string>
+    <string name="sunday_closed">Sunday: CLOSED</string>
+    <string name="opening_hours">OPENING HOURS</string>
+    <string name="monday_9_00_19_00">Monday: 9:00 – 19:00</string>
+    <string name="tuesday_9_00_19_00">Tuesday: 9:00 – 19:00</string>
+    <string name="wednesday_9_00_19_00">Wednesday: 9:00 – 19:00</string>
+    <string name="thursday_9_00_19_00">Thursday: 9:00 – 19:00</string>
+    <string name="friday_9_00_19_00">Friday: 9:00 – 19:00</string>
+    <string name="saturday_9_00_16_00">Saturday: 9:00 – 16:00</string>
+    <string name="background_image">Background Image</string>
+    <string name="logo">Logo</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">twitter</string>
+</resources>
